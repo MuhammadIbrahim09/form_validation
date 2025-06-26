@@ -1,16 +1,10 @@
-# form_validation
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This is my week 5 task.
+**Firebase authentication and Database**
+In this task I have integrate firebase authentication.
+Login Through -> **Email**
+Login Through -> **Google**
+The data will be store in **Firebase Firestore** Also
+In Profile Screen,You will see the data of user through which they have logged in.
+Once you registered yourself through **Email** you will get an **email verification**on your Email account.
+Opening link you will b e confirmed and then you logged in through your provided **Credentials**.
+After Login You will move to the Profile Screen.
