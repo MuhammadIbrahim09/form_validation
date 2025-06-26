@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "738313882005",
+    "project_id": "form-validation-836f0",
+    "storage_bucket": "form-validation-836f0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738313882005:android:3aaa68f1f8f2fc9779ce9c",
+        "android_client_info": {
+          "package_name": "com.example.form_validation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyPSfbLdOJ-HBH3dkXTUnbBUihKMRzl64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
